@@ -1,4 +1,4 @@
-import fs from "node:fs";
+import fs from "node: fs";
 
 const recursiveFuelRequirement = (mass) => {
   const fuel = Math.floor(Number(mass) / 3) - 2;

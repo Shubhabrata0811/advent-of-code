@@ -1,0 +1,7 @@
+Puzzle1:
+  Part1: Fuel required:  3363760
+  Part1: Fuel required:  50427670
+
+Puzzle2:
+  Part1: 12490719
+  Part2: 100 * noun + verb: 2003
