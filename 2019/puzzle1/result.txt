@@ -1,1 +1,2 @@
 Part1: Fuel required:  3363760
+Part1: Fuel required:  50427670
