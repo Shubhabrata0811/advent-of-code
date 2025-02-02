@@ -5,3 +5,7 @@ Puzzle1:
 Puzzle2:
   Part1: 12490719
   Part2: 100 * noun + verb: 2003
+
+Puzzle3:
+  Part1: 8015
+  Part2: 163676
