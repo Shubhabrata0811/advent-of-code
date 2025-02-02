@@ -9,3 +9,7 @@ Puzzle2:
 Puzzle3:
   Part1: 8015
   Part2: 163676
+
+Puzzle3:
+  Part1: 1079
+  Part2: 699
