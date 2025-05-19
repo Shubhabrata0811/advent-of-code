@@ -10,6 +10,10 @@ Puzzle3:
   Part1: 8015
   Part2: 163676
 
-Puzzle3:
+Puzzle4:
   Part1: 1079
   Part2: 699
+
+Puzzle5:
+  Part1: 10987514
+  Part2: 14195011
