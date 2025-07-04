@@ -17,3 +17,7 @@ Puzzle4:
 Puzzle5:
   Part1: 10987514
   Part2: 14195011
+
+Puzzle6:
+  Part1: 312697
+  Part2: 466
